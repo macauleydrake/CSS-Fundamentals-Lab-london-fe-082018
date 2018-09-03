@@ -3,3 +3,20 @@ body {
   height: 100%;
   margin: 0;
 }
+header { 
+  text-align:center;
+  
+}
+figure {
+  text-align:center;
+}
+nav a {
+  text-align:center;
+  padding-left:10px;
+  padding-right:10px;
+  background-color:grey;
+}
+figcaption {
+  font-size:12px;
+  text-align:center;
+}
